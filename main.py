@@ -34,7 +34,7 @@ def wait_for_code(token, log_func, result_callback, timeout=120, stop_event=None
             for mail in emails:
                 subject = mail.get("mail_subject", "").lower()
                 mail_id = mail.get("mail_id")
-                if any(kw in subject for kw in ["code", "verification", "confirm", "instagram", "claude", "openai", "chatgpt"]):
+                if any(kw in subject for kw in ["code", "verification", "confirm", "telegram", "discord", "google", "meta"]):
                     log_func(f"Found possible email: {mail.get('mail_subject')}\n")
                     r2 = requests.get(BASE_URL, params={
                         "f": "fetch_email",
