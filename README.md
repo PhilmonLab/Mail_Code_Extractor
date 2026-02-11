@@ -39,8 +39,8 @@ requests>=2.31.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/guerrilla-mail-extractor.git
-cd guerrilla-mail-extractor
+git clone 
+cd guerrilla_mail_extractor
 ```
 
 2. Install dependencies:
