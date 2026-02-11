@@ -23,10 +23,10 @@ A modern cyberpunk-themed GUI application for automatically extracting verificat
 
 ## Features
 
-- 🎨 Modern neon-themed UI with RUN/STOP toggle
+- 🎨 Modern neon themed UI with RUN/STOP toggle
 - 📧 Automatic temporary email generation
-- 🔍 Real-time verification code detection
-- 📋 One-click email copying
+- 🔍 Real time verification code detection
+- 📋 One click email copying
 - 🎯 Supports multiple platforms (Instagram, Claude, OpenAI, ChatGPT, etc.)
 - 🌈 Dynamic theme switching (Cyan/Purple)
 
