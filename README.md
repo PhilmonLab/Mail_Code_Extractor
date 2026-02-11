@@ -39,7 +39,7 @@ requests>=2.31.0
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/PhilmonLab/Mail_Code_Extractor.git
 cd guerrilla_mail_extractor
 ```
 
